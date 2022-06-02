@@ -1,0 +1,82 @@
+body{
+    background-color: #4c5768;
+    font-family: Verdana, sans-serif;
+
+}
+
+h1{
+    color: #228B22;
+
+}
+
+.pukkelpop{
+    background-color: red;
+    color: black;
+    padding: 20px;
+}
+ul{
+    list-style-image: url("Assets/iconfinder_music-note-sound_353429.png");
+    size: 32px;
+}
+
+p {
+    background-color: #6a7689;
+    color: #ffffff;
+    padding: 20px;
+}
+
+a:hover{
+    font-size: x-large;
+}
+
+.festival1{
+    border: 2px solid black;
+    margin-left: 5% ;
+    margin-right: 5% ;
+    margin-top: 5%;
+    align-content: center;
+    padding-bottom: 1%;
+    background: #aad8ef;
+    border-radius: 15px;
+}
+
+.festival2{
+    border: 2px solid black;
+    margin-left: 5% ;
+    margin-right: 5% ;
+    padding-bottom: 1%;
+    background: rgb(252,220,181);
+    border-radius: 15px;
+}
+
+.festival3{
+    border: 2px solid black;
+    margin-left: 5% ;
+    margin-right: 5% ;
+    padding-bottom: 1%;
+    background: #5166ff;
+    border-radius: 15px;
+}
+.button {
+    box-shadow: 3px 4px 0px 0px #899599;
+    background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+    background-color:#ededed;
+    border-radius:15px;
+    border:1px solid #d6bcd6;
+    display:inline-block;
+    cursor:pointer;
+    color:#3a8a9e;
+    font-family:Arial;
+    font-size:17px;
+    padding:7px 25px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #e1e2ed;
+}
+.button:hover {
+    background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+    background-color:#bab1ba;
+}
+.button:active {
+    position:relative;
+    top:1px;
+}

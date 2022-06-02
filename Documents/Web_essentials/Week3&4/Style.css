@@ -1,0 +1,8 @@
+p {
+    background-color: #99a2cc;
+    border: solid 1px #000000;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: Verdana, sans-serif;
+    display: Inline;
+}

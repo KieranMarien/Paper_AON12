@@ -1,0 +1,17 @@
+body{
+    background: #151c28;
+}
+
+
+.style{
+    display: block;
+
+    border: 2px solid #ffe14f;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#doorbell{
+    background: #8daec6;
+}

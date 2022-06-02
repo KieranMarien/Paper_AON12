@@ -1,0 +1,32 @@
+body{
+    background: #151c28;
+}
+
+.style{
+    padding: 5px;
+    border: 2px solid #ffe14f;
+    width: calc((100% - (96px)) / 4);
+    margin: 5px;
+    border-radius: 20px;
+    float: left;
+    min-width: 200px;
+}
+
+h1{
+    border: 2px solid #ffe14f;
+    color: #ffe14f;
+    text-align: center;
+}
+image{
+    display: inline-block;
+    position: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+audio{
+    width: 100%;
+
+}
+#doorbell{
+    background: #8daec6;
+}
